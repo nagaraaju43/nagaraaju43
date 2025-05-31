@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagaraaju43](https://github.com/nagaraaju43)
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **svnagaraju4457@gmail.com**
+- 📫 How to reach me **raajpvt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
