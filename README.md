@@ -70,7 +70,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akambaram-nagaraju"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/akambaram-nagaraju-b00706254/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/nagaraju816"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
